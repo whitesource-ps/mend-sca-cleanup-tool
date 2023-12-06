@@ -1,3 +1,6 @@
+
+> ⚠️ This tool has moved to a new home, please see the following repository in the Mend Toolkit for the latest version: [SCA Cleanup Tool](https://github.com/mend-toolkit/sca-cleanup-tool)
+
 [![Logo](https://resources.mend.io/mend-sig/logo/mend-dark-logo-horizontal.png)](https://www.mend.io/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Mend projects cleanup](https://github.com/whitesource-ps/ws-cleanup-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/whitesource-ps/ws-cleanup-tool/actions/workflows/ci.yml)
